@@ -1,0 +1,22 @@
+.userFormContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.inputContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.btn {
+  width: 60px;
+  padding: 5px;
+  border-radius: 5px;
+}
